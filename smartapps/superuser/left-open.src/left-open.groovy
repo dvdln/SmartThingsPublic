@@ -4,6 +4,18 @@
  *  Author: David Lane <me@dvdln.com>
  *  Date: 2014-01-19
  */
+
+// Automatically generated. Make future change here.
+definition(
+    name: "Left Open",
+    namespace: "",
+    author: "davidalane@gmail.com",
+    description: "Get an alert when a door was left open for too long.",
+    category: "My Apps",
+    iconUrl: "https://s3.amazonaws.com/smartapp-icons/Convenience/Cat-Convenience.png",
+    iconX2Url: "https://s3.amazonaws.com/smartapp-icons/Convenience/Cat-Convenience%402x.png",
+    iconX3Url: "https://s3.amazonaws.com/smartapp-icons/Convenience/Cat-Convenience%402x.png")
+
 preferences
 {
 	section("Monitor this door or window") {
